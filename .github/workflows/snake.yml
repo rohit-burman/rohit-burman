@@ -1,0 +1,32 @@
+# Contribution snake shown at the top of the README.
+# Output goes to the `output` branch, so your main branch history stays clean.
+# To remove the feature: delete this file and the <picture> block at the top of README.md.
+name: Contribution snake
+
+on:
+  schedule:
+    # Once a week: Thursday 03:47 UTC (30 min after the stats job)
+    - cron: "47 3 * * 4"
+  workflow_dispatch: # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate snake SVGs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#D6336C&color_dots=#EBEDF0,#FFE8A3,#FFD43B,#F59F00,#E67700
+            dist/github-snake-dark.svg?color_snake=#F06595&color_dots=#161B22,#5F4B0B,#A67C00,#E0A800,#FFD43B
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
