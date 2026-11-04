@@ -7,9 +7,9 @@
   <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/rohit-burman/rohit-burman/output/github-snake.svg" width="100%">
 </picture>
 
-<br><br>
+<br>
 
-<table align="center" border="0">
+<table align="center"  border="0" cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
     <td width="320" valign="middle" align="center">
       <img src="assets/portrait_animated.gif" width="290" alt="Illustrated portrait of Rohit wearing red headphones, surrounded by daisies">
@@ -48,11 +48,12 @@
 - 🧩 &nbsp;Web Technologies Lead at **GDGC Asansol Engineering College** (since 2025).
 - 🏆 &nbsp;2× Hackathon Winner.
 - 🌱 &nbsp; backend, full-stack and SDE roles. Remote, or happy to relocate anywhere in India. -->
+
 - **Now:** Final year B.Tech in CSE at Asansol Engineering College (2027), and Web Technologies Lead at GDGC AEC.
 - **Before:** Frontend develpoer Intern at KomfyTrip (remote,Jan-Dec 2025), 2x Hackathon winner
 - **Open to:** backend, full-stack and SDE roles. Remote, or happy to relocate anywhere in India.
-<!-- - **Building:** an adaptive AI study planner, a medicinal-plant identification system, and a grep that searches by meaning. -->
-<br>
+  <!-- - **Building:** an adaptive AI study planner, a medicinal-plant identification system, and a grep that searches by meaning. -->
+  <br>
 
 ### `featured projects`
 
@@ -86,14 +87,22 @@
 ### `stack`
 
 <p align="center">
-  <img alt="Python, TypeScript, Go, React, Next.js, FastAPI, PostgreSQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=python,ts,go,react,nextjs,fastapi,postgres,mongodb,redis&perline=9">
+  <img alt="Python, Java, TypeScript, Go, Tailwind, React, Next.js, NodeJS, FastAPI, PostgreSQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=python,java,ts,go,tailwind,react,nextjs,nodejs,fastapi,postgres,mongodb,redis&perline=12">
 </p>
 
 <br>
 
 <!-- WEEKLY STATS (WakaTime). To remove: delete this block AND .github/workflows/waka.yml -->
 
-### `lately`
+### `creative`
+
+<!-- To add more tools, append skillicons ids to the list and bump perline (e.g. ,pr,ai,figma). Full list: https://skillicons.dev -->
+<p align="center">
+  <img alt="Blender, Photoshop, After Effects, Figma, Threejs, Unity" src="https://skillicons.dev/icons?i=blender,ps,ae,figma,threejs,unity&perline=6">
+</p>
+<br>
+
+### `stats`
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
