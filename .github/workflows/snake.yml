@@ -1,13 +1,10 @@
-# Contribution snake shown at the top of the README.
-# Output goes to the `output` branch, so your main branch history stays clean.
-# To remove the feature: delete this file and the <picture> block at the top of README.md.
 name: Contribution snake
 
 on:
   schedule:
-    # Once a week: Thursday 03:47 UTC (30 min after the stats job)
+    # Thursday 03:47 UTC (09:17 IST)
     - cron: "47 3 * * 4"
-  workflow_dispatch: # lets you run it manually from the Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
