@@ -17,6 +17,7 @@
     <td valign="middle">
       <h1>Hey, I'm Rohit</h1>
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1400&color=D6336C&vCenter=true&width=430&height=40&lines=Full-stack+developer;Building+backends+that+scale;Crafting+interfaces+that+feel+right;Currently+exploring+Go+and+AI+systems" alt="Typing animation">
+      <!-- add open source contributor -->
       <p>
         Final year Computer Science student from Asansol, India.
         I enjoy turning complex problems into reliable systems
@@ -87,7 +88,7 @@
 ### `stack`
 
 <p align="center">
-  <img alt="Python, Java, TypeScript, Go, Tailwind, React, Next.js, NodeJS, FastAPI, PostgreSQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=python,java,ts,go,tailwind,react,nextjs,nodejs,fastapi,postgres,mongodb,redis&perline=12">
+  <img alt="Python, Java, TypeScript, Go, Tailwind, React, Next.js, NodeJS, FastAPI, PostgreSQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=python,java,ts,go,tailwind,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,docker,linux&perline=7">
 </p>
 
 <br>
