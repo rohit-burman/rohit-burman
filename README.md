@@ -106,15 +106,15 @@
 ### `stats`
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-🌆 Daytime                887 commits         ████████░░░░░░░░░░░░░░░░░   32.02 % 
-🌃 Evening                1372 commits        ████████████░░░░░░░░░░░░░   49.53 % 
-🌙 Night                  325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+🌞 Morning                187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+🌆 Daytime                912 commits         ████████░░░░░░░░░░░░░░░░░   32.50 % 
+🌃 Evening                1382 commits        ████████████░░░░░░░░░░░░░   49.25 % 
+🌙 Night                  325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 ```
 
 
@@ -122,10 +122,10 @@
 
 ```text
 TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
 Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 ```
 
 
